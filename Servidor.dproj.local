@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/01/30 00:25:57.000.782,=C:\Users\tiago\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/01/30 00:26:49.000.183,C:\Users\tiago\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\PROJETOS\Semana Delphi Mobile\Fontes\Servidor\UnitPrincipal.pas</Transaction>
+    <Transaction>2020/01/30 00:26:49.000.183,C:\Users\tiago\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\PROJETOS\Semana Delphi Mobile\Fontes\Servidor\UnitPrincipal.fmx</Transaction>
+    <Transaction>2020/01/30 00:26:58.000.114,C:\Users\tiago\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\PROJETOS\Semana Delphi Mobile\Fontes\Servidor\Servidor.dproj</Transaction>
+    <Transaction>2020/01/30 00:29:02.000.598,=C:\PROJETOS\Semana Delphi Mobile\Fontes\Servidor\Unit1.pas</Transaction>
+    <Transaction>2020/01/30 00:29:21.000.766,C:\PROJETOS\Semana Delphi Mobile\Fontes\Servidor\Unit1.pas=C:\PROJETOS\Semana Delphi Mobile\Fontes\Servidor\UnitDM.pas</Transaction>
+    <Transaction>2020/01/30 00:29:21.000.766,C:\PROJETOS\Semana Delphi Mobile\Fontes\Servidor\Unit1.dfm=C:\PROJETOS\Semana Delphi Mobile\Fontes\Servidor\UnitDM.dfm</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="33003cc48e8db465"/>
+	</ActiveMobileDevice>
+</BorlandProject>
